@@ -1,0 +1,35 @@
+{
+  "name": "cta-react",
+  "version": "1.0.0",
+  "description": "Clario test assignment: react-driven signup form.",
+  "private": true,
+  "homepage": "https://nuclear-waste-storage.github.io/temp-1",
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-hook-form": "^7.52.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "prettier": "^3.3.3",
+    "react-scripts": "^5.0.1"
+  },
+  "scripts": {
+    "build": "react-scripts build",
+    "start": "react-scripts start"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
